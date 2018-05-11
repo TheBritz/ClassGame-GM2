@@ -1,0 +1,146 @@
+Converting GML script: ${project_dir}\scripts\scr_ApplyTapfireBonus\scr_ApplyTapfireBonus.gml
+Converted description /// @description scr_ApplyTapfireBonus(weapons_list
+
+Converting GML script: ${project_dir}\scripts\scr_RequestRespawn\scr_RequestRespawn.gml
+Converted description /// @description scr_RequestRespawn(player_index
+
+Converting GML script: ${project_dir}\scripts\scr_PlayerHit\scr_PlayerHit.gml
+Converted description /// @description scr_PlayerHit(player_instance
+
+Converting GML script: ${project_dir}\scripts\scr_GamepadConnectChange\scr_GamepadConnectChange.gml
+Converted description /// @description scr_GamepadConnectChange(device, new_state
+
+Converting GML script: ${project_dir}\scripts\scr_FireProjectile\scr_FireProjectile.gml
+Converted description /// @description scr_FireProjectile(projectile_type
+
+Converting GML script: ${project_dir}\scripts\scr_ProjectileFireBadguyAimed\scr_ProjectileFireBadguyAimed.gml
+Converted description /// @description scr_ProjectileFireBadguyAimed(
+
+Converting GML script: ${project_dir}\scripts\scr_BadguyCreate\scr_BadguyCreate.gml
+Converted description /// @description scr_BadguyCreate(x, y, badguy_type, path, path_speed, formation_leader, formation_coords, formation_locked, image_angle_locked
+
+Converting GML script: ${project_dir}\scripts\scr_BadguyDeployerCreate\scr_BadguyDeployerCreate.gml
+Converted description /// @description scr_BadguyDeployerCreate(xx, yy, badguy_type, number, spawn_interval, formation, path, path_speed, formation_locked, image_angle_locked
+
+Converting GML script: ${project_dir}\scripts\scr_GetFormationFromBadguyType\scr_GetFormationFromBadguyType.gml
+Converted description /// @description scr_GetFormationFromBadguyType(badguy_type
+
+Converting GML script: ${project_dir}\scripts\scr_GetPathFromBadguyType\scr_GetPathFromBadguyType.gml
+Converted description /// @description scr_GetPathFromBadguyType(badguy_type
+
+Converting GML script: ${project_dir}\scripts\scr_EntityKill\scr_EntityKill.gml
+Converted description /// @description scr_EntityKill(entity_instance
+
+Converting GML script: ${project_dir}\scripts\scr_InBounds\scr_InBounds.gml
+Converted description /// @description scr_InBounds(xx, yy, left_bound, right_bound, top_bound, bottom_bound
+
+Converting GML script: ${project_dir}\scripts\scr_CycleListStep\scr_CycleListStep.gml
+Converted description /// @description scr_CycleListStep(list, index, cycle_speed
+
+Converting GML script: ${project_dir}\scripts\scr_ChooseFromList\scr_ChooseFromList.gml
+Converted description /// @description scr_ChooseFromList(list
+
+Converting GML script: ${project_dir}\scripts\scr_ChooseAndRemoveFromList\scr_ChooseAndRemoveFromList.gml
+Converted description /// @description scr_ChooseAndRemoveFromList(list
+
+Converting GML script: ${project_dir}\scripts\scr_PowerupCreate\scr_PowerupCreate.gml
+Converted description /// @description scr_PowerupCreate(x, y, powerup_type, for_player
+
+Converting GML script: ${project_dir}\scripts\scr_PowerupCollect\scr_PowerupCollect.gml
+Converted description /// @description scr_PowerupCollect(powerup, collector
+
+Converting GML script: ${project_dir}\scripts\scr_PowerupRemove\scr_PowerupRemove.gml
+Converted description /// @description scr_PowerupRemove(powerup, loser
+
+Converting GML script: ${project_dir}\scripts\scr_GetPathListByBadguy\scr_GetPathListByBadguy.gml
+Converted description /// @description scr_GetPathListByBadguy(badguy_type
+
+Converting GML script: ${project_dir}\scripts\scr_IterateProgression\scr_IterateProgression.gml
+Converted description /// @description scr_IterateProgression(progress_level
+
+Converting GML script: ${project_dir}\scripts\scr_BuildBadguyPathListMap\scr_BuildBadguyPathListMap.gml
+Converted description /// @description scr_BuildBadguyPathListMap(badguy_types...
+
+Font font0 has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font font1 has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\obj_badguy_deployer\Step_0.gml
+Converted description /// @description Monitor Spaw
+
+Converting GML script: ${project_dir}\objects\obj_badguy\Alarm_0.gml
+Converted description /// @description Shoot cooldow
+
+Converting GML script: ${project_dir}\objects\obj_badguy\Step_0.gml
+Converted description /// @description In-bounds checkin
+
+Converting GML script: ${project_dir}\objects\obj_badguy3\Step_0.gml
+Converted description /// @description Control (Stopping) Movement/// @param Stopping
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Alarm_2.gml
+Converted description /// @description Miniboss spaw
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Alarm_0.gml
+Converted description /// @description Ping gamepad connectio
+
+Converting GML script: ${project_dir}\objects\obj_game_controller\Step_0.gml
+Converted description /// @description Check for Start Press and Ship selec
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description Basic Player Action
+
+Converting GML script: ${project_dir}\objects\obj_player1\Create_0.gml
+Converted description /// @description Initiate Player 
+
+Converting GML script: ${project_dir}\objects\obj_player2\Create_0.gml
+Converted description /// @description Initiate Player 
+
+Converting GML script: ${project_dir}\objects\obj_player3\Create_0.gml
+Converted description /// @description Initiate Player 
+
+Converting GML script: ${project_dir}\objects\obj_player4\Create_0.gml
+Converted description /// @description Initiate Player 
+
+Converting GML script: ${project_dir}\objects\obj_debugger\Step_0.gml
+Converted description /// @description Debugger Action
+
+Converting GML script: ${project_dir}\objects\obj_projectile_badguy_basic\Step_0.gml
+Converted description /// @description Control color cycl
+
+Converting GML script: ${project_dir}\objects\obj_projectile_badguy_aimed\Step_0.gml
+Converted description /// @description Control color cycl
+
+Converting GML script: ${project_dir}\objects\obj_powerup\Other_10.gml
+Converted description /// @description Default powerup actio
+
+Converting GML script: ${project_dir}\objects\obj_hud_message\Step_2.gml
+Converted description /// @description Align drawing with windo
+
+Converting GML script: ${project_dir}\objects\obj_hud_message\Step_0.gml
+Converted description /// @description Control Alpha Cyclin
+
+Converting GML script: ${project_dir}\objects\explosion_obj\Other_7.gml
+Converted description /// @description Destroy Instanc
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_proj_basic' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_gatling' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_missile' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_badguy_basic' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_badguy_aimed' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_impact1' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_impact2' - setting to default audio group
+Missing audiogroup for sound: 'snd_proj_player_damage' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion1' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion2' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup_pickup' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion3' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt0' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt1' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt2' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt3' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt4' - setting to default audio group
+Missing audiogroup for sound: 'snd_taunt5' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
